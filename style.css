@@ -186,7 +186,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 .tfc-first-row {
 	flex-direction: row;
 	flex-basis: 25%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-rapid.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-rapid.jpg");
 	height: 100%;
 	width: 100%;
 	background-position: center;
@@ -205,7 +205,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 .tfc-third-row {
 	flex-direction: row;
 	flex-basis: 25%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-tdi.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-tdi.jpg");
 	height: 100%;
 	width: 100%;
 	background-position: center;
@@ -225,7 +225,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 	display: flex;
 	flex-direction: column;
 	flex-basis: 50.3%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-skoda-connect.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-skoda-connect.jpg");
 	height: 100%;
 	width: 100%;
 	background-position: center;
@@ -238,7 +238,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 	flex-basis: 49%;
     width: 100%;
     height: 100%;
-    background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%),  url(images/tiles-kodiaq.jpg);
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%),  url("images/tiles-kodiaq.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -249,7 +249,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 	flex-basis: 50.3%;
 	width: 100%;
 	height: 100%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%),  url(images/tiles-fabia.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%),  url("images/tiles-fabia.jpg");
 	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -258,7 +258,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 
 .tsc-first-row {
 	flex-basis: 49%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-citigo.png);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-citigo.png");
 	height: 100%;
 	width: 100%;
 	background-position: center;
@@ -277,7 +277,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 
 .tsc-second-row-column-top {
 	flex-basis: 49.8%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-karijera.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-karijera.jpg");
 	height: 100%;
 	width: 100%;
 	background-position: center;
@@ -288,7 +288,7 @@ a.btn.btn-lg.btn-success.banner-button:hover {
 
 .tsc-second-row-column-bottom {
 	flex-basis: 49.5%;
-	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url(images/tiles-motorsport.jpg);
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.2) 100%), url("images/tiles-motorsport.jpg");
 	height: 100%;
 	width: 100%;
 	background-position: center;
